@@ -7,9 +7,8 @@ In this assiginment I was tasked with improving code, consolidation of unneccess
 
 - I was able to learn the basics of html
 - How to put together a basic readme file
-- Attempted to add more specific HTMl elements
-- Consolidate css*
+- Added more specific HTMl elements
 - Learned basics of git, github, and gitlab
 - Added and Id for search-engine-optimazation
 
-I look forward to continuing to learn different aspects of the course. I hope that I was able to correct the required elements and look forward to feedback.
+I look forward to continuing to learn different aspects of the course. I hope that I was able to correct the required elements and look forward to feedback. I thought the css looked redundant and but I couldn't figure out how to consolidate.
